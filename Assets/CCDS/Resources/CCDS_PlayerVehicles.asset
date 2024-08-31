@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9e2056676699d4fb581ae113d1f473, type: 3}
+  m_Name: CCDS_PlayerVehicles
+  m_EditorClassIdentifier: 
+  playerVehicles:
+  - vehicle: {fileID: 2218642636979670865, guid: f7f4acd7dd7b24b40bd336eba055ebbe, type: 3}
+    price: 0
+    engineTorque: 340
+    handling: 0.3
+    speed: 180
+    upgradedEngineEfficiency: 1.2
+    upgradedHandlingEfficiency: 1.2
+    upgradedSpeedEfficiency: 1.2
+  - vehicle: {fileID: 6487892806478432533, guid: 5f4a4277bd1f54e488d6a2cc8333d7f8, type: 3}
+    price: 14000
+    engineTorque: 365
+    handling: 0.6
+    speed: 220
+    upgradedEngineEfficiency: 1.2
+    upgradedHandlingEfficiency: 1.2
+    upgradedSpeedEfficiency: 1.2
+  - vehicle: {fileID: 730452379403211696, guid: 101ce865f3c0f94478ec9491c1050bb1, type: 3}
+    price: 20000
+    engineTorque: 420
+    handling: 0.45
+    speed: 240
+    upgradedEngineEfficiency: 1.2
+    upgradedHandlingEfficiency: 1.2
+    upgradedSpeedEfficiency: 1.2
+  - vehicle: {fileID: 2939709155551316582, guid: 7639f64cacdc66949930d2b8691c2f0c, type: 3}
+    price: 26000
+    engineTorque: 460
+    handling: 0.55
+    speed: 260
+    upgradedEngineEfficiency: 1.2
+    upgradedHandlingEfficiency: 1.2
+    upgradedSpeedEfficiency: 1.2
+  - vehicle: {fileID: 7717651409822242695, guid: 804217dbfdabb4f4e980bd1be27075fc, type: 3}
+    price: 45000
+    engineTorque: 480
+    handling: 0.7
+    speed: 300
+    upgradedEngineEfficiency: 1.2
+    upgradedHandlingEfficiency: 1.2
+    upgradedSpeedEfficiency: 1.2
+  - vehicle: {fileID: 3295844700660033619, guid: e8423c2d0e4cfba4798fbbfceb5929ba, type: 3}
+    price: 65000
+    engineTorque: 620
+    handling: 0.8
+    speed: 320
+    upgradedEngineEfficiency: 1.2
+    upgradedHandlingEfficiency: 1.2
+    upgradedSpeedEfficiency: 1.2
+  - vehicle: {fileID: 8286764703934834528, guid: ef573118f5e7ad74487229e674ca9712, type: 3}
+    price: 70000
+    engineTorque: 650
+    handling: 0.8
+    speed: 330
+    upgradedEngineEfficiency: 1.2
+    upgradedHandlingEfficiency: 1.2
+    upgradedSpeedEfficiency: 1.2
+  - vehicle: {fileID: 5778999560943430812, guid: 9469b669e42a4ef449442a4eff6ebc3a, type: 3}
+    price: 80000
+    engineTorque: 660
+    handling: 0.8
+    speed: 340
+    upgradedEngineEfficiency: 1.2
+    upgradedHandlingEfficiency: 1.2
+    upgradedSpeedEfficiency: 1.2
+  - vehicle: {fileID: 2528431693485421302, guid: 5bd02eb71d674e64795917776fdf8e41, type: 3}
+    price: 90000
+    engineTorque: 680
+    handling: 0.8
+    speed: 347.05
+    upgradedEngineEfficiency: 1.2
+    upgradedHandlingEfficiency: 1.2
+    upgradedSpeedEfficiency: 1.2
