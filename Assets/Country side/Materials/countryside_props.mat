@@ -80,7 +80,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissiveTex:
-        m_Texture: {fileID: 2800000, guid: 5fdc7d4c1267b2840b6e0d744b9c9ced, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1686614339facb147a8f4d9571fc3d34, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _HeightColorsTex:
@@ -104,7 +104,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 05b26e0ee5a9e5242a67cdb84a644249, type: 3}
+        m_Texture: {fileID: 2800000, guid: 4d4a13d2d6f94854196edb23ac824ffc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MatCapTex:
