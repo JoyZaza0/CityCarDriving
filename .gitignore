@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+GitignoreFolder/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -25,6 +26,20 @@
 
 # Visual Studio cache directory
 .vs/
+
+# Visual Studio Code
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
 
 # Gradle cache directory
 .gradle/
